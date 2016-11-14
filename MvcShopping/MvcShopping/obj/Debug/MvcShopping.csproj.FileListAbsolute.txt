@@ -1,0 +1,635 @@
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\ApplicationInsights.config
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\csc.exe
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\System.Collections.Immutable.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\System.Reflection.Metadata.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\vbc.exe
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe.config
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\MvcShopping.dll.config
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\MvcShopping.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\MvcShopping.pdb
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\EntityFramework.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.AI.Agent.Intercept.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.AI.PerfCounterCollector.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.Web.Infrastructure.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Helpers.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Mvc.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Razor.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Webpages.Deployment.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Webpages.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Webpages.Razor.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\EntityFramework.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Razor.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Webpages.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Webpages.Deployment.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Webpages.Razor.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Helpers.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\bin\System.Web.Mvc.xml
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\obj\Debug\MvcShopping.dll
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\obj\Debug\MvcShopping.pdb
+A:\Documentos\UPC\Ciclo IX\Evaluacion y Nuevas Tendencias\TP\MvcShopping\MvcShopping\obj\Debug\MvcShopping.csprojResolveAssemblyReference.cache
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\ApplicationInsights.config
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.exe
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.exe.config
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.rsp
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csi.exe
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csi.rsp
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.AppContext.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Collections.Immutable.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.IO.FileSystem.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.exe
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.exe.config
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.rsp
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe.config
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.dll.config
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.pdb
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Antlr3.Runtime.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\dotless.Core.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Agent.Intercept.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Core.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Cookies.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Facebook.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Google.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.OAuth.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Twitter.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Web.Infrastructure.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Newtonsoft.Json.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Owin.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Net.Http.Formatting.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Helpers.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.Owin.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Mvc.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Razor.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Deployment.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Razor.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\WebGrease.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Antlr3.Runtime.pdb
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Core.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Cookies.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Facebook.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Google.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.OAuth.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Twitter.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\Newtonsoft.Json.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Net.Http.Formatting.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Helpers.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.Owin.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Mvc.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.pdb
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Razor.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Deployment.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Razor.xml
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.dll
+D:\antonny cosas personales\Ciclo 2016-2\ARQUI 2\TRABAJO PARCIAL\VERSIÓN 4\TrabajoParcialArqui-master\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.pdb
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.csprojResolveAssemblyReference.cache
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.pdb
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\ApplicationInsights.config
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.exe
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.exe.config
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.rsp
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csi.exe
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csi.rsp
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.AppContext.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Collections.Immutable.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.IO.FileSystem.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.exe
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.exe.config
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.rsp
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe.config
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.dll.config
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.pdb
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Antlr3.Runtime.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\dotless.Core.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Google.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Web.Infrastructure.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Newtonsoft.Json.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Owin.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\SendGrid.CSharp.HTTP.Client.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\SendGrid.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\SendGrid.SmtpApi.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\SendGridMail.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Net.Http.Formatting.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Helpers.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.Owin.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Mvc.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Razor.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Deployment.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Razor.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\WebGrease.dll
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Antlr3.Runtime.pdb
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Google.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\Newtonsoft.Json.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Net.Http.Formatting.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Helpers.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.Owin.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Mvc.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.pdb
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Razor.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Deployment.xml
+D:\TRABAJO PARCIAL ARQUI 2\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Razor.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\ApplicationInsights.config
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.exe
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.exe.config
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.rsp
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csi.exe
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csi.rsp
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.AppContext.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Collections.Immutable.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.IO.FileSystem.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.exe
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.exe.config
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.rsp
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe.config
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.dll.config
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.pdb
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Antlr3.Runtime.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\dotless.Core.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Google.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Web.Infrastructure.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Newtonsoft.Json.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Owin.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\SendGrid.CSharp.HTTP.Client.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\SendGrid.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\SendGrid.SmtpApi.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\SendGridMail.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Net.Http.Formatting.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Helpers.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.Owin.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Mvc.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Razor.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Deployment.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Razor.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\WebGrease.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Antlr3.Runtime.pdb
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Google.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\Newtonsoft.Json.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Net.Http.Formatting.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Helpers.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.Owin.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Mvc.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.pdb
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Razor.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Deployment.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Razor.xml
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.dll
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.pdb
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.csprojResolveAssemblyReference.cache
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.Migrations.InitialCreate.resources
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.csproj.GenerateResource.Cache
+D:\TRABAJO PARCIAL ARQUI 2\VERSIÓN TEST\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.Migrations.Initial.resources
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\ApplicationInsights.config
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.exe
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.exe.config
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csc.rsp
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csi.exe
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\csi.rsp
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.AppContext.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.exe
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.exe.config
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\vbc.rsp
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.dll.config
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\MvcShopping.pdb
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Antlr3.Runtime.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\dotless.Core.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Newtonsoft.Json.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Owin.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\SendGrid.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\SendGrid.SmtpApi.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\SendGridMail.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Net.Http.Formatting.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Helpers.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.Owin.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Mvc.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Razor.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\WebGrease.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Antlr3.Runtime.pdb
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\Newtonsoft.Json.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Net.Http.Formatting.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Helpers.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Http.Owin.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Mvc.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.pdb
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.Razor.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.pdb
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\MvcShopping\MvcShopping\obj\Debug\MvcShopping.csprojResolveAssemblyReference.cache
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\ApplicationInsights.config
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\csc.exe
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\csc.exe.config
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\csc.rsp
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\csi.exe
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\csi.rsp
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\System.AppContext.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\vbc.exe
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\vbc.exe.config
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\vbc.rsp
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\MvcShopping.dll.config
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\MvcShopping.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\MvcShopping.pdb
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Antlr3.Runtime.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\dotless.Core.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\EntityFramework.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Newtonsoft.Json.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Owin.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\RestSharp.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\SendGrid.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\SendGrid.SmtpApi.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\SendGridMail.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Net.Http.Formatting.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Helpers.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Http.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Http.Owin.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Mvc.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Optimization.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Razor.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.WebPages.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Twilio.Api.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\WebGrease.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Antlr3.Runtime.pdb
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\EntityFramework.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\EntityFramework.SqlServer.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AI.Web.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Newtonsoft.Json.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\RestSharp.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Net.Http.Formatting.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Helpers.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Http.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Http.Owin.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Mvc.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Optimization.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.pdb
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Optimization.Less.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.Razor.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.WebPages.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Twilio.Api.pdb
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\bin\Twilio.Api.xml
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\obj\Debug\MvcShopping.Migrations.InitialCreate.resources
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\obj\Debug\MvcShopping.Migrations.Initial.resources
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\obj\Debug\MvcShopping.csproj.GenerateResource.Cache
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\obj\Debug\MvcShopping.dll
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\obj\Debug\MvcShopping.pdb
+C:\Users\Aldo\Desktop\VERSIÓN final\VERSIÓN final\MvcShopping\Test\MvcShopping\MvcShopping\obj\Debug\MvcShopping.csprojResolveAssemblyReference.cache

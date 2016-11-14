@@ -1,0 +1,78 @@
+﻿@model MvcShopping.Models.Album
+
+@{
+    Html.RenderAction("_GenresList");
+}
+
+<link href="@Url.Content("~/Content/bootstrap-theme.min.css")" rel="stylesheet" type="text/css" media="all" />
+
+<script type="text/javascript">
+    $(function () {
+        // Document.ready -> link up remove event handler
+        $(".AddLink").click(function () {
+            // Get the id from the link
+            var recordToAdd = $(this).attr("data-id");
+            if (recordToAdd != '') {
+                // Perform the ajax post
+                $.post("/ShoppingCart/AddToCart", { "id": recordToAdd },
+                    function (data) {
+                        // Successful requests get here
+                        // Update the page elements
+                        
+                        $('#update-message').text(data.Message);
+               
+                    });
+            }
+        });
+    });
+</script>
+<div id="update-message">
+</div>
+
+<div class="header_bottom_right">
+    <div class="slider">
+        <div class="main">
+            <div class="content">
+
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Portada de @Model.Title</th>
+                            <th>Genre</th>
+                            <th>Artist</th>
+                            <th>Price</th>
+                            <th>Options</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="info">
+                            <th>
+
+                                <img alt="@Model.Title"
+                                     src="@Model.AlbumArtUrl" />
+
+                            </th>
+                            <td>
+                                @Model.Genre.Name
+                            </td>
+                            <td>
+                                @Model.Artist.Name
+                            </td>
+                            <td>
+                                @String.Format("{0:F}", Model.Price)
+                            </td>
+                            <td>
+                                <div class="add-cart">
+                                    <h4><a class="AddLink" href="#" data-id="@Model.AlbumId.ToString()" @*href="@Url.Action("AddToCart", "ShoppingCart", new { id = album.AlbumId })"*@>Add to Cart</a></h4>
+                                </div>
+                               
+                            </td>
+                        </tr>
+
+                    </tbody>
+                </table>            
+            
+            </div>
+        </div>
+    </div>
+</div>

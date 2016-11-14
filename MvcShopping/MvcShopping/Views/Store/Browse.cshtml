@@ -1,0 +1,151 @@
+﻿@model MvcShopping.Models.Genre
+
+
+
+<script type="text/javascript">
+
+    $(document).ready(
+             start()
+         );
+    function start() {
+        $("#divMessage").hide();
+
+    }
+    $(function () {
+        // Document.ready -> link up remove event handler
+        $(".AddLink").click(function () {
+            // Get the id from the link
+            var recordToAdd = $(this).attr("data-id");
+            if (recordToAdd != '') {
+                // Perform the ajax post
+                $.post("/ShoppingCart/AddToCart", { "id": recordToAdd },
+                    function (data) {
+                        // Successful requests get here
+                        // Update the page elements
+                        $('#divMessage').fadeOut('slow');
+                        $('#divMessage').css('background','#8ec252')
+                        $('#divMessage').text(data.Message).show();
+                        $('#update-message').text(data.Message);
+
+                        setTimeout(function () {
+                            $("#divMessage").fadeOut().empty();
+                        }, 5000);
+                        
+
+                    });
+            }
+        });
+    });
+    
+</script>
+
+
+
+
+@if (Model != null)
+{
+
+    Html.RenderAction("_GenresList");
+
+    
+
+    //d
+    <div class="header_bottom_right">
+
+        <div class="content_top" id="divMessage" hidden>
+
+            <div class="clear"></div>
+
+            <div class="heading">
+             <h3 id="update-message"></h3>
+         </div>
+
+            <div class="clear"></div>
+        </div>
+     
+
+        <div class="slider">
+            <div class="main">
+                <div class="content">
+
+                    
+                    <div class="content_top">
+                        <div class="clear"></div>
+                        <div class="heading">
+                            <h3>Genre: @Model.Name</h3>
+                        </div>
+                      
+                        <div class="clear"></div>
+                    </div>
+
+                    <div class="section group">
+                        @*Inicio*@
+                        @foreach (var album in Model.Albums)
+                        {
+
+
+
+
+
+
+
+                            @* Inicio *@
+
+
+
+                            <div class="grid_1_of_4 images_1_of_4">
+                                <a href="@Url.Action("Details", "Store", new { id = album.AlbumId })"><img src="@album.AlbumArtUrl" alt="" /></a>
+                                <h2>@album.Title.Substring(0, album.Title.Length<10? album.Title.Length :10).ToString() .</h2>
+                                <div class="price-details">
+                                    <div class="price-number">
+                                        
+                                        <p><span class="rupees">$@album.Price</span></p>
+                                        
+                                    </div>
+                                    <div class="add-cart">
+                                        <h4><a class="AddLink" href="#" data-id="@album.AlbumId.ToString()" @*href="@Url.Action("AddToCart", "ShoppingCart", new { id = album.AlbumId })"*@>Add to Cart</a></h4>
+                                    </div>
+
+                                    <div class="clear"></div>
+
+                                </div>
+
+
+                            </div>
+
+
+
+
+                            @* Fin *@
+
+
+
+
+
+
+                        }
+
+                    </div>
+
+
+
+
+
+                    
+
+
+                    @* Fin *@
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    ///
+
+
+}
+

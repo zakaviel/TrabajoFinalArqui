@@ -1,0 +1,49 @@
+﻿@model MvcShopping.Models.Album
+@{
+    ViewBag.Title = "Album - " + Model.Title;
+}
+
+<link href="@Url.Content("~/Content/bootstrap-theme.min.css")" rel="stylesheet" type="text/css" media="all" />
+
+<h2>@Model.Title</h2>
+
+@{
+    Html.RenderAction("_GenresList");
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Portada</th>
+            <th>Genre</th>
+            <th>Artist</th>
+            <th>Price</th>
+            <th>Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="info">
+            <th scope="row">
+                <p>
+                    <img alt="@Model.Title"
+                         src="@Model.AlbumArtUrl" />
+                </p>
+            </th>
+            <td>
+                @Model.Genre.Name
+            </td>
+            <td>
+                @Model.Artist.Name
+            </td>
+            <td>
+                @String.Format("{0:F}", Model.Price)
+            </td>
+            <td>
+                <p class="button">
+                    @Html.ActionLink("Add tocart", "AddToCart", "ShoppingCart", new { id = Model.AlbumId }, "")
+                </p>
+            </td>
+        </tr>
+
+    </tbody>
+</table>

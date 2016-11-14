@@ -1,0 +1,18 @@
+﻿
+
+    @{
+        int NumeroItems = 0;
+        if (Session["NumeroItems"] != null)
+        {
+            NumeroItems = (int)(Session["NumeroItems"]);
+        }
+        <ul class="nav navbar-nav navbar-right">
+            <li>@Html.ActionLink("Numero de Items" + "(" + NumeroItems.ToString() + ")", "Index", "ShoppingCart", routeValues: null, htmlAttributes: new { id = "Carrito" })</li>
+        </ul>
+  }
+
+
+
+
+
+

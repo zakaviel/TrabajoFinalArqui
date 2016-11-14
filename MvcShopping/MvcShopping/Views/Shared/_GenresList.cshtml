@@ -1,0 +1,27 @@
+﻿@model List<MvcShopping.Models.Genre>
+
+@{
+    ViewBag.Title = "Store";
+}
+
+@if (Model != null)
+{
+
+
+    <div class="header_bottom_left">
+        <div class="categories">
+            <ul>
+                <h3>Genres</h3>
+             
+                @foreach (var genre in Model)
+                {
+                    <li>
+                        @Html.ActionLink(genre.Name, "Browse", "Store", new { genre = genre.Name }, new Dictionary<string, object> { { "class", "ui-btn-right" }, { "data-icon", "gear" } })
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+
+
+}
