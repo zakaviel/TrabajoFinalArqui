@@ -5,6 +5,7 @@ using MvcShopping.Models;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 using System.Web.Http.Results;
+using System.Diagnostics;
 
 namespace MvcShopping.Test
 {
@@ -45,7 +46,9 @@ namespace MvcShopping.Test
         [TestMethod]
         public async Task GetalbumAsync_ShouldReturnCorrectalbum()
         {
+
             var testalbums = GetTestalbums();
+            await Task.Run(()=>ProcedimientoAsincrono(testalbums));
             var controller = new AlbumController(testalbums);
 
             var result = await controller.GetalbumAsync(4) as OkNegotiatedContentResult<Album>;
@@ -60,17 +63,60 @@ namespace MvcShopping.Test
 
             var result = controller.Getalbum(999);
             Assert.IsInstanceOfType(result, typeof(NotFoundResult));
+            Console.WriteLine(result);
         }
 
         private List<Album> GetTestalbums()
         {
+            Stopwatch stopwatch = new Stopwatch();
+
+            // Begin timing.
+            stopwatch.Start();
+            
+
+            
+            
+
             var testalbums = new List<Album>();
-            testalbums.Add(new Album { AlbumId = 1, Title = "Demo1", Price = 1 });
-            testalbums.Add(new Album { AlbumId = 2, Title = "Demo2", Price = 3.75M });
-            testalbums.Add(new Album { AlbumId = 3, Title = "Demo3", Price = 16.99M });
-            testalbums.Add(new Album { AlbumId = 4, Title = "Demo4", Price = 11.00M });
+            for (int i = 1; i < 1000000; i++)
+            {
+                testalbums.Add(new Album { AlbumId = i, Title = "Demo1" + i.ToString(), Price = 1 });
+                //Ejecutar subproceso i
+            }
+
+            // Stop timing.
+            stopwatch.Stop();
+
+            // Write result.
+            Console.WriteLine("Time elapsed: {0}", stopwatch.Elapsed);
 
             return testalbums;
+        }
+        private async Task ProcedimientoAsincrono(List<Album> temp)
+        {
+            Stopwatch stopwatch = new Stopwatch();
+
+            // Begin timing.
+            stopwatch.Start();
+
+
+
+
+
+            var testalbums = new List<Album>();
+            for (int i = 1; i < 1000000; i++)
+            {
+                testalbums.Add(new Album { AlbumId = i, Title = "Demo1" + i.ToString(), Price = 1 });
+                //Ejecutar subproceso i
+            }
+
+            // Stop timing.
+            stopwatch.Stop();
+
+            // Write result.
+            Console.WriteLine("Time elapsed: {0}", stopwatch.Elapsed);
+
+            temp = testalbums;
         }
     }
 }
