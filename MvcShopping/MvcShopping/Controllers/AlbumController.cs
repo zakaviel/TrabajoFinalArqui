@@ -1,4 +1,5 @@
-﻿using MvcShopping.Models;
+﻿using MvcShopping.DAL;
+using MvcShopping.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,7 @@ namespace MvcShopping.Controllers
 {
     public class AlbumController : ApiController
     {
+        
         List<Album> albums = new List<Album>();
 
         public AlbumController() { }
@@ -23,6 +25,13 @@ namespace MvcShopping.Controllers
         public IEnumerable<Album> GetAllalbums()
         {
             return albums;
+        }
+
+        public void CreateAlbum()
+        {
+
+            MusicStoreEntities db = new MusicStoreEntities();
+            db.Database.ExecuteSqlCommand("exec CreateArtist3");
         }
 
         public async Task<IEnumerable<Album>> GetAllalbumsAsync()
