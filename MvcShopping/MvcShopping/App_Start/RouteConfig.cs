@@ -18,6 +18,9 @@ namespace MvcShopping
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Store", action = "Index", id = UrlParameter.Optional }
             );
+
+
+
         }
     }
 }

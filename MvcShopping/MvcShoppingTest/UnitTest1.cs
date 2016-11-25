@@ -1,49 +1,136 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MvcShopping.Controllers;
-using MvcShopping.Models;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using System.Web.Http.Results;
 using System.Diagnostics;
-using MvcShopping.DAL;
+
 using System.Data.SqlClient;
+using System.Data;
+using APIMvcShopping.Controllers;
+using APIMvcShopping.Models;
+using System.Data.Common;
+using APIMvcShopping.DAL;
 
 namespace MvcShopping.Test
 {
     [TestClass]
     public class UnitTest1
     {
-        private MusicStoreEntities db = new MusicStoreEntities();
+        private APIMvcShopping.DAL.MusicStoreEntities _ctx;
+        
+        [TestInitialize]
+        public void Initialize()
+        {
+            string connStr = "";
+            //DbConnection connection = new DbConnection();
+            SqlConnection cn = new
+                SqlConnection("Data Source = (LocalDb)\\MSSQLLocalDB; Initial Catalog = MvcShopping; Integrated Security = True");
+            //_ctx = new APIMvcShopping.DAL.MusicStoreEntities("Data Source = (LocalDb)\\MSSQLLocalDB; Initial Catalog = MvcShopping; Integrated Security = True");
+          
+        }
+
         [TestMethod]
         public void GetAllalbums_ShouldReturnAllalbums()
         {
-            var testalbums = GetTestalbums();
-            var controller = new AlbumController(testalbums);
 
-            var result = controller.GetAllalbums() as List<Album>;
-            Assert.AreEqual(testalbums.Count, result.Count);
+ 
+
+        }
+        [TestMethod]
+        public void Test_GetCarritos()
+        {
+            string connString = "Data Source = (LocalDb)\\MSSQLLocalDB; Initial Catalog = MvcShopping; Integrated Security = True";
+            SqlConnection cn = new SqlConnection(connString);
+
+            using (cn)
+            {
+                cn.Open();
+
+                MusicStoreEntities interop_db = new MusicStoreEntities(cn);
+
+                var controller = new ArtistsController(interop_db);
+
+                var result = controller.GetArtists() as List<Album>;
+
+                Assert.IsNotNull(result.Count);
+
+
+            }
+
+              
+            cn.Close();
+        }
+
+        [TestMethod]
+        public void Test_GetCarritoX()
+        {
+            string connString = "Data Source = (LocalDb)\\MSSQLLocalDB; Initial Catalog = MvcShopping; Integrated Security = True";
+            SqlConnection cn = new SqlConnection(connString);
+
+            using (cn)
+            {
+                cn.Open();
+
+                MusicStoreEntities interop_db = new MusicStoreEntities(cn);
+
+                var controller = new CartsController(interop_db);
+
+                var result = controller.GetCart(0);
+
+                Assert.IsNotNull(result);
+
+
+            }
+
+
+            cn.Close();
+        }
+        [TestMethod]
+        public void Test_SetCarritoX()
+        {
+            string connString = "Data Source = (LocalDb)\\MSSQLLocalDB; Initial Catalog = MvcShopping; Integrated Security = True";
+            SqlConnection cn = new SqlConnection(connString);
+
+            using (cn)
+            {
+                cn.Open();
+
+                MusicStoreEntities interop_db = new MusicStoreEntities(cn);
+
+                var controller = new CartsController(interop_db);
+
+                Cart cart = new Cart();
+
+             
+                var result = controller.PostCart(cart);
+
+                Assert.IsNotNull(result);
+
+
+            }
+
+
+            cn.Close();
         }
 
         [TestMethod]
         public async Task GetAllalbumsAsync_ShouldReturnAllalbums()
         {
-            var testalbums = GetTestalbums();
-            var controller = new AlbumController(testalbums);
+            APIMvcShopping.DAL.MusicStoreEntities db = new APIMvcShopping.DAL.MusicStoreEntities();
+            var controller = new ArtistsController(db);
 
-            var result = await controller.GetAllalbumsAsync() as List<Album>;
-            Assert.AreEqual(testalbums.Count, result.Count);
+            var result = controller.GetArtists() as List<Album>;
+            Assert.IsNotNull(result.Count);
         }
 
         [TestMethod]
         public void Getalbum_ShouldReturnCorrectalbum()
         {
-            var testalbums = GetTestalbums();
-            var controller = new AlbumController(testalbums);
+            APIMvcShopping.DAL.MusicStoreEntities db = new APIMvcShopping.DAL.MusicStoreEntities();
+            var controller = new ArtistsController(db);
 
-            var result = controller.Getalbum(4) as OkNegotiatedContentResult<Album>;
-            Assert.IsNotNull(result);
-            Assert.AreEqual(testalbums[3].Title, result.Content.Title);
+            var result = controller.GetArtists() as List<Album>;
+            Assert.IsNotNull(result.Count);
         }
 
         [TestMethod]
@@ -54,35 +141,30 @@ namespace MvcShopping.Test
             // Define a delegate that prints and returns the system tick count
             Func<object, int> action = (object obj) =>
             {
-                //int i = (int)obj;
-
-                //// Make each thread sleep a different time in order to return a different tick count
-                //Thread.Sleep(i * 100);
-
-                //// The tasks that receive an argument between 2 and 5 throw exceptions
-                //if (2 <= i && i <= 5)
-                //{
-                //    //throw new InvalidOperationException("SIMULATED EXCEPTION");
-                //}
+                
                 SqlConnection cn = new
-                SqlConnection("Data Source=(LocalDb)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\MvcShopping.mdf;Initial Catalog=MvcShopping;Integrated Security=True");
+                SqlConnection("Data Source = (LocalDb)\\MSSQLLocalDB; Initial Catalog = MvcShopping; Integrated Security = True");
+                
                 SqlCommand cm = new SqlCommand();
                 cm.Connection = cn;
                 using (cn)
                 {
                     cn.Open();
+
                     cm.CommandText = "CreateArtist3";
-                    cm.CommandType = System.Data.CommandType.StoredProcedure;
-                    cm.CommandText = "CreateArtist3";
+                    cm.CommandType = CommandType.StoredProcedure;
+                    //cm.CommandText = "CreateArtist3";
                     Stopwatch st = new Stopwatch();
                     st.Start();
                     // Wait for all the tasks to finish.
                     //Task.WaitAll(tasks.ToArray()); 
-                    cm.ExecuteNonQuery();
+
+                    cm.ExecuteReader();
+
                     st.Stop();
                     TimeSpan ts = st.Elapsed;
                     Console.WriteLine(ts.Milliseconds);
-                    Console.ReadLine();
+                 
                     // We should never get to this point
                 }
                 int tickCount = Environment.TickCount;
@@ -90,12 +172,13 @@ namespace MvcShopping.Test
 
                 return tickCount;
             };
-
+            
             // Construct started tasks
-            for (int i = 0; i < 1000000; i++)
+            for (int i = 0; i < 5000; i++)
             {
                 int index = i;
                 tasks.Add(Task<int>.Factory.StartNew(action, index));
+                
             }
             try
             {
@@ -106,49 +189,68 @@ namespace MvcShopping.Test
                 st.Stop();
                 TimeSpan ts = st.Elapsed;
                 // We should never get to this point
-                Console.WriteLine(ts.Milliseconds);
+                //Console.WriteLine(ts.Milliseconds);
                 //Console.WriteLine("WaitAll() has not thrown exceptions. THIS WAS NOT EXPECTED.");
             }
             catch (AggregateException e)
             {
-                Console.WriteLine("\nThe following exceptions have been thrown by WaitAll(): (THIS WAS EXPECTED)");
-                for (int j = 0; j < e.InnerExceptions.Count; j++)
-                {
-                    Console.WriteLine("\n-------------------------------------------------\n{0}", e.InnerExceptions[j].ToString());
-                }
+            
+                
             }
+        }
+        public void execprocedure()
+        {
+            SqlConnection cn = new 
+             // SqlConnection("Data Source = (LocalDb)\\MSSQLLocalDB; Initial Catalog = MvcShopping; Integrated Security = True");
+            SqlConnection("integrated security=true;data source=.\\sqlexpress;initial catalog=MusicStoreEntities");
+            //SqlConnection(@"C:\Users\Aldo\Desktop\ArquiFinalDevel\TrabajoFinalArqui\MvcShopping\MvcShoppingTest\App_Data\MvcShopping.mdf");
+            SqlCommand cm = new SqlCommand();
+            cm.Connection = cn;
+
+            using (cn)
+            {
+                cn.Open();
+                cm.CommandText = "CreateArtist3";
+                cm.CommandType = CommandType.StoredProcedure;
+                //cm.CommandText = "CreateArtist3";
+                Stopwatch st = new Stopwatch();
+                st.Start();
+                // Wait for all the tasks to finish.
+                //Task.WaitAll(tasks.ToArray()); 
+
+                cm.ExecuteNonQuery();
+
+                st.Stop();
+                TimeSpan ts = st.Elapsed;
+                Console.WriteLine(ts.Milliseconds);
+              
+                // We should never get to this point
+            }
+        }
+        [TestMethod]
+        public void Test2()
+        {
+            // Define a delegate that prints and returns the system tick count
+
+            // Construct started tasks
+
+            for (int i = 0; i < 5000; i++)
+            {
+                int index = i;
+                execprocedure();
+
+            }
+ 
         }
 
         [TestMethod]
         public async Task GetalbumAsync_ShouldReturnCorrectalbum()
         {
-            Stopwatch stopwatch = new Stopwatch();
+            APIMvcShopping.DAL.MusicStoreEntities db = new APIMvcShopping.DAL.MusicStoreEntities();
+            var controller = new ArtistsController(db);
 
-            // Begin timing.
-            stopwatch.Start();
-
-
-
-            var testalbums = GetTestalbums();
-            
-            var controller = new AlbumController(testalbums);
-
-            Task[] tasks = new Task[100];
-            for (int i = 0; i < 100; i++)
-            {
-                tasks[i] = Task.Factory.StartNew(() => controller.CreateAlbum());
-            }
-            Task.WaitAll(tasks);
-
-            // Stop timing.
-            stopwatch.Stop();
-
-            // Write result.
-            Console.WriteLine("Time elapsed: {0}", stopwatch.Elapsed);
-            Assert.IsNotNull(stopwatch.Elapsed);
-            TimeSpan ts = stopwatch.Elapsed;
-            Console.WriteLine(ts.Milliseconds);
-            Console.ReadLine();
+            var result = controller.GetArtists() as List<Album>;
+            Assert.IsNotNull(result.Count);
 
         }
         public void DoSomeWork(int i)
@@ -158,14 +260,14 @@ namespace MvcShopping.Test
         [TestMethod]
         public void Getalbum_ShouldNotFindalbum()
         {
-            var controller = new AlbumController(GetTestalbums());
+            APIMvcShopping.DAL.MusicStoreEntities db = new APIMvcShopping.DAL.MusicStoreEntities();
+            var controller = new ArtistsController(db);
 
-            var result = controller.Getalbum(999);
-            Assert.IsInstanceOfType(result, typeof(NotFoundResult));
-            Console.WriteLine(result);
+            var result = controller.GetArtists() as List<Album>;
+            Assert.IsNotNull(result.Count);
         }
 
-        private List<Album> GetTestalbums()
+        private List<Artist> GetTestartist()
         {
             Stopwatch stopwatch = new Stopwatch();
 
@@ -176,10 +278,10 @@ namespace MvcShopping.Test
             
             
 
-            var testalbums = new List<Album>();
-            for (int i = 1; i < 1000000; i++)
+            var testartist = new List<Artist>();
+            for (int i = 1; i < 100; i++)
             {
-                testalbums.Add(new Album { AlbumId = i, Title = "Demo1" + i.ToString(), Price = 1 });
+                testartist.Add(new Artist { Name="Martasa"});
                 //Ejecutar subproceso i
             }
 
@@ -189,9 +291,9 @@ namespace MvcShopping.Test
             // Write result.
             Console.WriteLine("Time elapsed: {0}", stopwatch.Elapsed);
 
-            return testalbums;
+            return testartist;
         }
-        private async Task ProcedimientoAsincrono(List<Album> temp)
+        private async Task ProcedimientoAsincrono(List<Artist> temp)
         {
             Stopwatch stopwatch = new Stopwatch();
 
@@ -202,10 +304,10 @@ namespace MvcShopping.Test
 
 
 
-            var testalbums = new List<Album>();
+            var testalbums = new List<Artist>();
             for (int i = 1; i < 1000000; i++)
             {
-                testalbums.Add(new Album { AlbumId = i, Title = "Demo1" + i.ToString(), Price = 1 });
+                testalbums.Add(new Artist { Name = "HOla"+i.ToString()});
                 //Ejecutar subproceso i
             }
 

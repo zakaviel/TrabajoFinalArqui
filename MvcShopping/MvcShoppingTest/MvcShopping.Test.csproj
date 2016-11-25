@@ -64,6 +64,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="TestDbSet .cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -71,10 +72,24 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\APIMvcShopping\APIMvcShopping.csproj">
+      <Project>{182c302c-0a04-479b-8da0-4ce6f587258e}</Project>
+      <Name>APIMvcShopping</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MvcShopping\MvcShopping.csproj">
-      <Project>{6D821854-626B-4879-BA39-C7732F13678E}</Project>
+      <Project>{6d821854-626b-4879-ba39-c7732f13678e}</Project>
       <Name>MvcShopping</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="App_Data\MvcShopping.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="App_Data\MvcShopping_log.ldf">
+      <DependentUpon>MvcShopping.mdf</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
